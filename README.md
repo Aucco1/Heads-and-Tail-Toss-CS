@@ -17,6 +17,11 @@ pip install panda
 pip install matplotlib
 ```
 
+### 3. Clone repo
+```bash
+git clone https://github.com/Aucco1/Heads-and-Tail-Toss-CS.git
+```
+
 # Demo
 
 ## 1&2. Group Coin Class 1A and 10B + Combined Graph
@@ -69,3 +74,8 @@ pip install matplotlib
 
 
 # Group 8: Pacheco, Lucero, Peralta
+
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
